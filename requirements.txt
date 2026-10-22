@@ -1,0 +1,5 @@
+ultralytics>=8.4
+opencv-python>=4.8
+pyserial>=3.5
+torch>=2.0
+torchvision>=0.15
